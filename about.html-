@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<title>Top Secret</title>
+<body>
+
+<h1 style="font-size:300%;"><strong>Top secret project</strong></h1>
+<p><em>This page is confidential. Only <strong>authorized</strong> personnel are allowed to access it.</em></p>
+
+<img src="top secret.jpg" alt="Top Secret Image">
+
+</body>
+</html>
